@@ -26,7 +26,7 @@
 ---
 
 ### 🌱 I’m currently learning  
-`Java` · `Python` · `C`
+`Java` · `Python` · `C` · `verilog`
 
 ### 📫 Reach me at  
 **e21442@eng.pdn.ac.lk**
