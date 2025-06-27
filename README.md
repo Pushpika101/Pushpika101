@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pushpika</h1>
 <h3 align="center">A passionate Undergraduate of UOP Computer Engineering</h3>
-<img align="right" alt="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2FIieZUsqoYCwAAAAM%2Fdeveloper.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&docid=4Gbv2Us6fF852M&tbnid=jbn1gSSc8L6tGM&vet=12ahUKEwjrgK3o85GOAxUsxzgGHW9fHiAQM3oECDIQAA..i&w=220&h=165&hcb=2&ved=2ahUKEwjrgK3o85GOAxUsxzgGHW9fHiAQM3oECDIQAA”>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwjrgK3o85GOAxUsxzgGHW9fHiAQM3oECGgQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjrgK3o85GOAxUsxzgGHW9fHiAQM3oECGgQAA”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpika101&label=Profile%20views&color=0e75b6&style=flat" alt="pushpika101" /> </p>
